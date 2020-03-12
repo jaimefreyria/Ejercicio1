@@ -1,5 +1,5 @@
 body{
-	background: url("craiganour_oculus.jpg") no-repeat center center fixed;
+	background: url(craiganour_oculus.jpg) no-repeat center center fixed;
 	background-size:cover;
 }
 
@@ -20,14 +20,25 @@ body{
 }
   
 article{
+	width: 30%;
+	height: AUTO;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(255,0,0,.9);
 }
 
 img{
+	width: 100%;
+	max-width: 100%;
+
 }
-
 h2{
-
+	font-family: sans-serif;
+	font-size: 24px;
+	font-weight: bold;
 }
 p{
+	font-family: sans-serif;
+	font-size: 12px;
 	
 }
