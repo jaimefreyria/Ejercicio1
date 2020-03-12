@@ -1,12 +1,24 @@
-style.css{
+body{
+	background: url(craiganour_oculus) no-repeat center center fixed;
+	background-size:cover;
 }
 
 #home{
+	width: 90%;
+	height: 1000px;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(255,255,255,.9);
 }
 
 #albums{
+	width: 90%;
+	height: 1000px;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(82,134,132,5);
 }
-
+  
 article{
 }
 
