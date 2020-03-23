@@ -1,11 +1,13 @@
 body{
 	background: url(craiganour_oculus.jpg) no-repeat center center fixed;
 	background-size:cover;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'VT323', monospace;
 }
 
 #home{
 	width: 90%;
-	height: 1000px;
+	height: 100%;
 	margin: 0 auto;
 	padding: 12px;
 	background: rgba(126,195,255,.9);
