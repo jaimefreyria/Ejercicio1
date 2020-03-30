@@ -24,6 +24,8 @@ body{
 article{
 	width: 30%;
 	display: inline-block;
+	vertical-align: top;
+	
 }
 
 img{
@@ -32,9 +34,13 @@ img{
 	border-radius: 50%;
 
 }
+
+
 h1{font-family: 'VT323', monospace;
-	font-size: 24px;
-	font-weight: bold;}
+	font-size: 65px;
+	font-weight: bold;
+	text-align: center;
+}
 h2{
 	font-family: 'VT323', monospace;
 	font-size: 24px;
@@ -43,5 +49,17 @@ h2{
 p{
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
+	text-align: justify;
 	
+}
+header{
+	background: rgba(126,195,255,.09);
+	width: 100%;
+	margin: 0 auto;
+
+}
+footer{
+	background: rgba(126,195,255,.09);
+	width:100%;
+	margin: 0 auto;
 }
