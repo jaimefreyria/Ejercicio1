@@ -10,7 +10,7 @@ body{
 	height: 100%;
 	margin: 0 auto;
 	padding: 12px;
-	background: rgba(126,195,255,.9);
+	background: rgba(126,195,255,.09);
 }
 
 #albums{
@@ -22,7 +22,7 @@ body{
 }
   
 article{
-	width: 27%;
+	width: 33%;
 	display: inline-block;
 }
 
