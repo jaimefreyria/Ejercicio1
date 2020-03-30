@@ -27,6 +27,7 @@ article{
 	margin: 0 auto;
 	padding: 12px;
 	background: rgba(255,0,0,.9);
+	display: inline-block;
 }
 
 img{
