@@ -22,11 +22,7 @@ body{
 }
   
 article{
-	width: 30%;
-	height: AUTO;
-	margin: 0 auto;
-	padding: 12px;
-	background: rgba(255,0,0,.9);
+	width: 33%;
 	display: inline-block;
 }
 
