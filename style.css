@@ -58,8 +58,13 @@ header{
 	margin: 0 auto;
 
 }
+header p , footer p{
+	color: #ffff;
+	text-align: center;
+}
 footer{
 	background: rgba(126,195,255,.09);
-	width:100%;
-	margin: 0 auto;
+	
+	text-align: center;
 }
+
